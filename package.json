@@ -17,7 +17,7 @@
     "typescript": "^4.6.4"
   },
   "dependencies": {
-    "discord-api-types": "^0.32.0",
+    "discord-api-types": "^0.37.38",
     "discord.js": "^13.6.0",
     "node-fetch": "^3.2.4"
   }
